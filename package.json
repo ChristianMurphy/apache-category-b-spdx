@@ -1,0 +1,23 @@
+{
+  "name": "apache-category-b-spdx",
+  "version": "1.0.0",
+  "description": "Apache Category B SPDX codes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianMurphy/apache-category-b-spdx.git"
+  },
+  "keywords": [
+    "apache",
+    "category",
+    "b",
+    "spdx",
+    "license"
+  ],
+  "author": "Christian Murphy <christian.murphy.42@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ChristianMurphy/apache-category-b-spdx/issues"
+  },
+  "homepage": "https://github.com/ChristianMurphy/apache-category-b-spdx#readme"
+}
